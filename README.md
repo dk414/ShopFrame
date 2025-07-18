@@ -3,7 +3,6 @@
 # 🛍️ WindowShop.ai
 
 **An AI-powered product search engine for video content**  
-Built during **HackOn with Amazon 4.0**
 
 ---
 
@@ -62,15 +61,9 @@ Built during **HackOn with Amazon 4.0**
 
 ---
 
-## 🤝 Contributors
-
-- **Prashant Agrawal** – Backend & AI Integration
 
 ---
 
-## 🧠 Inspiration
-
-Built for [HackOn with Amazon 4.0](https://unstop.com/hackathons/hackon-with-amazon-40-amazon-882309), this project explores the future of **interactive video commerce**, combining real-time AI with intuitive user experiences.
 
 ---
 
